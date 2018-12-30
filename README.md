@@ -13,6 +13,6 @@ The apps can control the LEDs from the user.
 The Blynk Apps will controls these LEDs at the user wills.
 
 # Google Assistant
-![image](https://user-images.githubusercontent.com/44058064/50551327-c67bdc80-0cb9-11e9-9a5f-4cd1affdce16.png)
+![image](https://user-images.githubusercontent.com/44058064/50551334-ee6b4000-0cb9-11e9-9925-c964b148d28a.png)
 
 The LEDs can be control via voice command through Google Assistant
