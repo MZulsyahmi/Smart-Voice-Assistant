@@ -26,8 +26,8 @@ char auth[] = "YourAuthToken";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "YourSSID";
-char pass[] = "SSIDPassword";
+char ssid[] = "Your_Network_Name";
+char pass[] = "Network_Password";
 
 //initialize the pin to be used
 int green = D6;
